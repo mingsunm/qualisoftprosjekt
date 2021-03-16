@@ -1,0 +1,32 @@
+.formArea {
+    
+    margin-top: 30px;
+    
+}
+
+.heading{
+    margin-top: 50px;
+    font-size: 150%;
+}
+
+.form-label{
+    font-size: large
+}
+
+#FormControlInput1{
+    margin-left: 100px;
+}
+
+.submitBtn{
+    text-align: center;
+}
+
+.SubmitSuccess {
+    height: 100vh;
+    min-height: 30rem;
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    padding: 10px;
+  }
